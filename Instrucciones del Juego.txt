@@ -1,0 +1,22 @@
+Barra Espaciadora : Disparar
+Tecla Izquierda teclado : Mover a la izquierda
+Tecla Derecha teclado : Mover a la derecha
+Tecla Up teclado : Mover hacia arriba
+Tecla Down teclado : Mover hacia abajo
+
+1. Usted empieza con 15 puntos, debido a que por cada nave 
+que deje pasar hacia atrás suyo se le restará una parte del 
+puntaje dependiendo de la nave que haya dejado pasar.
+
+2. Usted suma puntos por cada enemigo que destruya
+
+Meteorito: 5 puntos
+Nave hongo: 10 puntos
+Nave Ovni: 25 puntos
+
+3. Usted puede sumar vidas acercándose a los corazones
+que salen aleatoriamente por la pantalla
+
+4. Tenga en cuenta que si su puntaje llega a 0 o si los enemigos 
+pasan muy cerca suyo se le restará una vida por cada ocasión que 
+repita eso
